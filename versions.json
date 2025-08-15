@@ -1,0 +1,22 @@
+{
+    "resources": {
+        "fenrirkit": {
+            "version": "1.0.0",
+            "type": "paid",
+            "source": "closed",
+            "notes": []
+        },
+        "fenrirui": {
+            "version": "1.0.0",
+            "type": "paid",
+            "source": "closed",
+            "notes": []
+        },
+        "fenrircore": {
+            "version": "1.0.0",
+            "type": "paid",
+            "source": "closed",
+            "notes": []
+        }
+    }
+}
