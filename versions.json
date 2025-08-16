@@ -17,6 +17,12 @@
             "type": "paid",
             "source": "closed",
             "notes": []
+        },
+        "fenrirmotion": {
+            "version": "1.0.0",
+            "type": "paid",
+            "source": "closed",
+            "notes": []
         }
     }
 }
